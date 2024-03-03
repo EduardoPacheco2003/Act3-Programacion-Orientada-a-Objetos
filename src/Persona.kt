@@ -4,6 +4,4 @@ class Persona( val nombre: String, val apellidos: String, val sexo: String, val 
     //Apellidos
     //Sexo
     //Altura
-
-
 }
